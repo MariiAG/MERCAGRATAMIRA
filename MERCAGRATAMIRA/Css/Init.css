@@ -21,8 +21,8 @@ li{
 }
 #row4{
     float: left;
-    clear: right;
-    margin-left: 100px;  
+    clear: right; 
+    margin-left: 70px;
 }
 #row2{
     clear: both; 
@@ -33,7 +33,7 @@ li{
 #row3{
     float: left;
     clear: right;
-    margin-left: 110px;
+    margin-left: 80px;
 }
 footer{
     clear: both;
@@ -42,7 +42,7 @@ h1{
     text-align: center;
     font-family: 'Rowdies', cursive;
 }
-h2{
+h2, h3{
     text-align: center;
     font-family: 'Amiri', serif;
     justify-content: center;
@@ -50,4 +50,11 @@ h2{
 #foot{
     padding: 2%;
     size: 30px;
+}
+img{
+    height: 29em;
+    width: 90em;
+}
+#pedido{
+    clear: both;
 }
