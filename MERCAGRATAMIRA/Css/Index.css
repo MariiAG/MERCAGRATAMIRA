@@ -1,0 +1,31 @@
+img{
+    height: 29em;
+    width: 90em;
+}
+#inicio{
+    text-align: center;
+}
+#form{
+    color: black;
+}
+#foot{
+    padding: 2%;
+    size: 30px;
+}
+#label1, #label2{
+    font-family: 'Rowdies', cursive;
+    font-size: 30px;
+    color: black;
+}
+#usuario, #contraseña{
+    font-size: 18px;
+}
+h1{
+    font-family: 'Rowdies', cursive;
+}
+h4{
+    font-family: 'Rowdies', cursive;
+}
+h3{
+    font-family: 'Amiri', serif;
+}

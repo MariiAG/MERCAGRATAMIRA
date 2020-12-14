@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    font-family: 'Rowdies', cursive;
+}
+h2{
+    text-align: center;
+    font-family: 'Amiri', serif;
+    justify-content: center;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 30%;
+}
+.listPedido{
+    font-size: 40px;
+    text-align: center; 
+
+}
+#foot{
+    padding: 2%;
+    size: 30px;
+}
+#logo{
+    padding: 0.5em;
+    font-family: 'Rowdies', cursive;
+}
+li{
+    font-family: 'Amiri', serif;
+    font-size: 300px;
+    margin-right: 0.2em;
+}
+.paginas{
+    font-size: 30px;
+    padding: 0.5em;
+}
